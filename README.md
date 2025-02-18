@@ -2,14 +2,14 @@
 
 This project is a **GUI-based Image Steganography tool** built using **Python** and **Tkinter**, allowing users to hide and retrieve secret messages within images using a passcode.
 
-## 🚀 Features
+## Features
 
 - **Encrypt text messages inside images** 🔒
 - **Decrypt hidden messages from images** using the correct passcode 🔑
 - **User-friendly interface** with side-by-side encryption & decryption
 - **Passcode-based security** with hashing for verification 🔐
 
-## 📷 How It Works
+## How It Works
 
 1. **Encryption**
 
@@ -25,10 +25,10 @@ This project is a **GUI-based Image Steganography tool** built using **Python** 
 
 ## 🛠 Technologies Used
 
-- **Python** 🐍
-- **Tkinter** (for GUI) 🎨
-- **OpenCV (cv2)** (for image processing) 🖼
-- **Hashlib** (for passcode security) 🔑
+- **Python**
+- **Tkinter** (for GUI) 
+- **OpenCV (cv2)** (for image processing) 
+- **Hashlib** (for passcode security)
 
 ## 📥 Installation & Usage
 
