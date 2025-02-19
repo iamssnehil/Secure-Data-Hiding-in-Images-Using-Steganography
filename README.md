@@ -41,5 +41,5 @@ Ensure you have Python installed (preferably Python 3.8 or newer).
 ### Install Dependencies
 
 ```sh
-pip install opencv-python pillow
+pip install opencv-python
 ```
