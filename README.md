@@ -22,9 +22,8 @@ This project is a **GUI-based Image Steganography tool** built using **Python** 
    - Select the encrypted image.
    - Enter the correct passcode.
    - The tool retrieves and displays the hidden message.
-<br>
-![ss](https://github.com/iamssnehil/Secure-Data-Hiding-in-Images-Using-Steganography/blob/a1fead7d99e4ee3d383bd54065ef8e510a2b3c82/Screenshot.png)
-<br>
+
+![Screenshot](https://github.com/iamssnehil/Secure-Data-Hiding-in-Images-Using-Steganography/blob/a1fead7d99e4ee3d383bd54065ef8e510a2b3c82/Screenshot.png)
 
 ## Technologies Used
 
